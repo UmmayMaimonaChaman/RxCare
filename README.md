@@ -132,7 +132,7 @@ PHP scripts respond to enquiries from the front end, allowing for dynamic and re
 ***ADMIN***:
 	Contains the employee ID, username, and password for the administrator. Only one record exists, and administrative capabilities can only be accessed through this login.
  
-***EMPLOGIN***:
+***STAFFLOGIN***:
 	Stores the employee ID, username, and password for all managers and pharmacists, excluding the administrator. These credentials allow pharmacists to access their specific functionalities.
 
 Here,
