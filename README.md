@@ -16,6 +16,7 @@ Also, we tried to make these website’s code feasible and easy to understand fo
 4. Place the folder RxCare in *C:\xampp\htdocs*.
 5. In web browser, open *localhost/phpmyadmin*.
 6. Create a new database called 'RxCare_pharmacy' in phpmyadmin.
+7. Now, write the SQL commands for the proper database tables given in `rxcare_pharmacy.sql`.
 
 ## Launch
 
