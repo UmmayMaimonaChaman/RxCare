@@ -19,7 +19,7 @@ Also, we tried to make these website’s code feasible and easy to understand fo
 
 ## Launch
 
-1. After successfully importing, start the project by typing the following in the web browser:  *localhost/PHARMACY/mainpage.php*   
+1. After successfully importing, start the project by typing the following in the web browser:  *localhost/RxCare/main.php*   
 2. The Login Page for Admin opens up by default. Login as Admin by using:
     ```
     Username: adminCP
