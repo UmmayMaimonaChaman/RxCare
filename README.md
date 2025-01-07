@@ -1,7 +1,7 @@
 # RxCare
                                            Simplifying Pharmacy, Enriching Life
 
-# Pharmacy-Management-System
+# Pharmacy Management System
 Our primary goal is to make an interactive and user-friendly website for managing all the information at a pharmacy and lessen the workload of the worker and also the admin. We have used PHP for Back-End and MySQL for query. Also, we have implemented HTML5, CSS3 and Javascript for Front-End. We tried to add some dynamic features to make it more user-friendly. This report explores our project’s information about how we have implemented our knowledge of Database Management System to solve this problem. We tried our best to implement our knowledge of this course and our interest in website development in this project. 
 Also, we tried to make these website’s code feasible and easy to understand for any developer to add further features.
 
