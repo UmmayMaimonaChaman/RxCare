@@ -67,17 +67,13 @@ The RxCare back-end acts as the system's backbone, managing data storage, proces
 <b> Key Features of the Back-End development: </b>
 1. Database Management and CRUD:
 Data is stored centrally for medicines, staff members, customers, transactions, and sales. Relational database schemas are developed for consistency and standardisation in order to avoid redundancy and assure data integrity. Supports CRUD (Create, Read, Update, and Delete) actions for all system key entities.
-
-2.RBAC( Role-Based Access Control ):
+2. RBAC( Role-Based Access Control ):
 Implements role-based permissions, which restrict specific activities based on user roles (Admin vs. Pharmacist). So, it ensures that critical actions, such as stock updates or customer data access, are limited to authorised users.
-
 3. Secure Data Processing and error Handling:
 This website ensures secure session management to prevent unauthorized access. Also, robust error-handling procedures are in place to maintain system stability, including informative error messages for troubleshooting. User inputs are sanitised and validated to prevent SQL injection and other complications.
-
-4.Business Point of View:
+4. Business Point of View:
 The back-end development ensures that RxCare is a dependable and efficient system capable of meeting the different needs of pharmacy administration with speed, accuracy, and security. It dynamically provides full sales reports. Calculates sales totals, taxes, and profits to simplify financial tracking.
-
-5.Integration with front-end and Scalability: 
+5. Integration with front-end and Scalability: 
 PHP scripts respond to enquiries from the front end, allowing for dynamic and responsive interactions. It uses indexes and optimised SQL queries to speed up data retrieval. The modular architecture enables scalability, allowing new features to be added without disturbing existing functions.
 
 
