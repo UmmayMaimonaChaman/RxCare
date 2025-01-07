@@ -8,7 +8,7 @@ Also, we tried to make these website’s code feasible and easy to understand fo
 
 # Starting the process.
 
-## Installation and Setup
+## Setup
 
 1. Download and Install [XAMPP](https://www.apachefriends.org/download.html)
 2. Open XAMPP Control Panel and start Apache and MySQL.
