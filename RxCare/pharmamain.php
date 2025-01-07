@@ -54,7 +54,7 @@ body {font-family:Arial;}
 	</center>
 	
 	<a href="p_sale1.php" title="Add New Sale">
-	<img src="carticon1.png" style="padding:8px;margin-left:550px;margin-top:40px;width:200px;height:200px;border:2px solid black;" alt="Add New Sale">
+	<img src="carticon.png" style="padding:8px;margin-left:550px;margin-top:40px;width:200px;height:200px;border:2px solid black;" alt="Add New Sale">
 	</a>
 	
 	<a href="p_materials_view.php" title="View Matirials">
