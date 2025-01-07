@@ -39,7 +39,7 @@ Also, we tried to make these website’s code feasible and easy to understand fo
     ```
 
 
-## Objectives  
+## Features  
 
 The primary objectives and features of the system are outlined below:  
 
