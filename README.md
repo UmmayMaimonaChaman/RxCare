@@ -36,3 +36,21 @@ Also, we tried to make these website’s code feasible and easy to understand fo
     Username: ProvaChaman
 	Password: C.P.
     ```
+## Frontend Development 
+
+<b> User-centred Design/Development: </b>
+The system prioritises usability, guaranteeing that both admin and pharmacists may easily access, view, and perform tasks with minimum instruction. By automating repetitive procedures and delivering clear, responsive graphics, RxCare considerably decreases the manual burden normally associated with pharmacy administration.
+
+<b> Key Features of the Front-End design: </b>
+1. Dashboard Overview:
+The dashboard provides quick access to key operations such as materials management, transactions, staff details, customer data, and sales reports. Clear iconography and basic text labels are used to ensure straightforward navigation.
+2. User-friendly Design:
+Responsive design ensures seamless usage on PCs, tablets, and mobile devices. Flexible layout using latest CSS frameworks such as Bootstrap to improve responsiveness.
+3. Specific Navigation for differents users or roles: 
+Admin and Pharmacist interfaces are designed to their specific roles. Dropdown menus for grouped functionalities (such as "Materials," "Transactions," "Staffs," and "Customers") provide a clean and organised user experience.
+4. Interactive Elements or Functional Integrations: 
+Icons and buttons, such as "Add New Sale" and "View Sales Invoice Details," are appealing and engaging, making them easy to use. Dynamic methods are used for user activities, such as creating new records or seeing detailed reports. Search and filter functions are included in sites for faster data access. Additionally, the dropdown elements are incorporated using JS scripts, which adds dynamic navigation.
+5. Color Scheme :
+To boost readability, a professional colour palette was utilised, with contrasting highlights. Typography, spacing, and alignment help to maintain visual hierarchy and improve user focus.
+
+
