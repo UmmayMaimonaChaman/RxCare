@@ -77,4 +77,30 @@ The back-end development ensures that RxCare is a dependable and efficient syste
 PHP scripts respond to enquiries from the front end, allowing for dynamic and responsive interactions. It uses indexes and optimised SQL queries to speed up data retrieval. The modular architecture enables scalability, allowing new features to be added without disturbing existing functions.
 
 
+## Database Architecture
+
+***MEDS***: 
+	Contains details regarding the list of all medicines, mainly their type, the quantity currently present in the store and their price.
+  
+***PURCHASE***:
+	Holds records of all stock acquisitions by the company, including the quantity purchased, the amount spent, and the date of purchase.
+  
+***EMPLOYEES***:
+	Maintains information about all employees, including administrators, managers, and pharmacists. 
+  
+***CUSTOMERS***:
+	Stores customer details to facilitate smoother sales transactions.
+  
+***SALES***: 
+	Logs all pharmacy sales, tracking the sale invoice number, the customer ID, the ID of the employee handling the sale, the total sale amount, and the date and time of the transaction.
+  
+***SALES_ITEMS***:
+	Documents specific medicines sold in each transaction, including the sale invoice number, medicine ID, quantity sold, and the total cost of that particular sale.
+  
+***ADMIN***:
+	Contains the employee ID, username, and password for the administrator. Only one record exists, and administrative capabilities can only be accessed through this login.
+ 
+***EMPLOGIN***:
+	Stores the employee ID, username, and password for all managers and pharmacists, excluding the administrator. These credentials allow pharmacists to access their specific functionalities.
+
 
