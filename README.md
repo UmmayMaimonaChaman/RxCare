@@ -38,25 +38,30 @@ Also, we tried to make these website’s code feasible and easy to understand fo
     ```
 
 
-## Objectives
+## Objectives  
 
-The main objectives/features of the system are:
+The primary objectives and features of the system are outlined below:  
 
-- Secure Login and Logout System 
-      1. For Admin
-      2. For Pharmacist
-- Admin Role:
-      1. Manages (Add, Update, View, Delete)
-              a. Customers information
-              b. Staff members information
-              c. Transactions information
-              d. Materials or Medicines information
-      2. Oversee all transactions, update records, and generate reports.
-- Pharmacist Role:
-      1. Add new customers 
-      2. Register sales.
-      3. View available medicines
-      4. Access reports and records relevant to their sales.
+### Secure Login and Logout System  
+- **Admin Login**  
+- **Pharmacist Login**  
+
+### Admin Role  
+The Admin has the following capabilities:  
+1. Manage (Add, Update, View, Delete):  
+   - Customer information  
+   - Staff member information  
+   - Transaction information  
+   - Material or Medicine information  
+2. Oversee all transactions, update records, and generate reports.  
+
+### Pharmacist Role  
+The Pharmacist is responsible for the following tasks:  
+1. Adding new customers.  
+2. Registering sales.  
+3. Viewing available medicines.  
+4. Accessing reports and records related to their sales.  
+
 
 
 
