@@ -18,6 +18,8 @@ Also, we tried to make these website’s code feasible and easy to understand fo
 6. Create a new database called 'RxCare_pharmacy' in phpmyadmin.
 7. Now, write the SQL commands for the proper database tables given in `rxcare_pharmacy.sql`.
 
+"As this is an automated SQL file from phpMyAdmin, you might need to remove the commented code to ensure error-free operations. However, the tables and values should be created properly. Otherwise, it's good to go!"
+
 ## Launch
 
 1. After successfully importing, start the project by typing the following in the web browser:  *localhost/RxCare/main.php*   
