@@ -37,7 +37,31 @@ Also, we tried to make these website’s code feasible and easy to understand fo
 	Password: C.P.
     ```
 
-    
+
+## Objectives
+
+The main objectives/features of the system are:
+
+- Secure Login and Logout System 
+      1. For Admin
+      2. For Pharmacist
+- Admin Role:
+      1. Manages (Add, Update, View, Delete)
+              a. Customers information
+              b. Staff members information
+              c. Transactions information
+              d. Materials or Medicines information
+      2. Oversee all transactions, update records, and generate reports.
+- Pharmacist Role:
+      1. Add new customers 
+      2. Register sales.
+      3. View available medicines
+      4. Access reports and records relevant to their sales.
+
+
+
+
+
 ## Frontend Development 
 
 <b> User-centred Design/Development: </b>
@@ -77,7 +101,9 @@ The back-end development ensures that RxCare is a dependable and efficient syste
 PHP scripts respond to enquiries from the front end, allowing for dynamic and responsive interactions. It uses indexes and optimised SQL queries to speed up data retrieval. The modular architecture enables scalability, allowing new features to be added without disturbing existing functions.
 
 
-## Database Architecture
+
+
+## Database Framework
 
 ***MEDS***: 
 	Contains details regarding the list of all medicines, mainly their type, the quantity currently present in the store and their price.
@@ -103,4 +129,13 @@ PHP scripts respond to enquiries from the front end, allowing for dynamic and re
 ***EMPLOGIN***:
 	Stores the employee ID, username, and password for all managers and pharmacists, excluding the administrator. These credentials allow pharmacists to access their specific functionalities.
 
+Here,
+- If a new employee has been added, login details for a new employee can only be added using the database server.
+- Admin login details can only be changed using the database server.
+  
+
+
+## Users or Controller of the System
+
+The system is developed for use by either the **Admin** or **Pharmacists**.
 
