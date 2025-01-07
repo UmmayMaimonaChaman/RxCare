@@ -132,10 +132,23 @@ PHP scripts respond to enquiries from the front end, allowing for dynamic and re
 Here,
 - If a new employee has been added, login details for a new employee can only be added using the database server.
 - Admin login details can only be changed using the database server.
-  
+
 
 
 ## Users or Controller of the System
 
 The system is developed for use by either the **Admin** or **Pharmacists**.
+
+
+
+## **Conclusion**  
+
+RxCare, the Pharmacy Management System, marks a significant advancement in streamlining pharmacy operations and enhancing overall efficiency. Built on robust technologies such as PHP, MySQL, HTML5, CSS3, and JavaScript, the system provides a secure, user-friendly, and reliable platform for managing essential tasks. Its dynamic features and secure access are tailored to meet the evolving needs of the healthcare industry. Designed with usability in mind, the system ensures that both admins and pharmacists can easily access, navigate, and perform tasks with minimal training. In conclusion, this Pharmacy Management System is a holistic solution aimed at addressing the challenges of pharmacy operations by improving accuracy, efficiency, and customer satisfaction, while paving the way for future advancements.  
+
+
+
+Best Regards,  
+Ummay Maimona Chaman  
+Nazifa Anjum Prova  
+
 
