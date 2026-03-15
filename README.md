@@ -1,5 +1,10 @@
 # RxCare
-                                           Simplifying Pharmacy, Enriching Life
+![Backend](https://img.shields.io/badge/Backend-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Server](https://img.shields.io/badge/Server-XAMPP-orange?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-E34F26?style=flat-square)
+![Database](https://img.shields.io/badge/Database-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+![Project](https://img.shields.io/badge/Project-Healthcare%20System-green?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Web%20Application-purple?style=flat-square)
 
 # Pharmacy Management System
 Our primary goal is to make an interactive and user-friendly website for managing all the information at a pharmacy and lessen the workload of the worker and also the admin. We have used PHP for Back-End and MySQL for query. Also, we have implemented HTML5, CSS3 and Javascript for Front-End. We tried to add some dynamic features to make it more user-friendly. This repository explores our project's information about how we have implemented our knowledge of Database Management System to solve this problem. We tried our best to implement our knowledge of this course and our interest in website development in this project. 
